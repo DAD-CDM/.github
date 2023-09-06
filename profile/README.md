@@ -17,4 +17,4 @@ Are you interested in learning more about DAD-CDM or would you like to contribut
 * Subscribe to the project mailing lists: 
 	* dad-cdm+subscribe@lists.oasis-open-projects.org
   * [Message Archive](https://lists.oasis-open-projects.org/g/dad-cdm/topics)
-* [Become a sponsor](https://www.oasis-open.org/join-an-open-project/) and ensure that DAD-CDM receives the resources they need to succeed
+* [Become a sponsor](https://www.oasis-open.org/join-an-open-project/) and ensure that DAD-CDM receives the resources needed to succeed
