@@ -12,8 +12,7 @@ General questions about OASIS Open Projects may be directed to OASIS staff at pr
 ## Get Involved!
 Are you interested in learning more about DAD-CDM or would you like to contribute to our projects? Here are a few starting points:
 
-* Join the conversation on Slack:
-	* [DAD-CDM Slack](https://join.slack.com/t/dad-cdm/shared_invite/zt-22nj1rwpy-Hf30BDIOJBIGwn3nAMiK6A)
+* Join the conversation on [Slack](https://join.slack.com/t/dad-cdm/shared_invite/zt-22nj1rwpy-Hf30BDIOJBIGwn3nAMiK6A)
 * Subscribe to the project mailing lists: 
 	* dad-cdm+subscribe@lists.oasis-open-projects.org
   * [Message Archive](https://lists.oasis-open-projects.org/g/dad-cdm/topics)
