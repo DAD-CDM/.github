@@ -1,6 +1,6 @@
 # Welcome to DAD-CDM Open Project!
 
-**Defending Against Disinformation Common Data Model (DAD-CDM)** is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) to define global standards that will help protect against the online spread of Foreign Information Manipulation and Interference (FIMI).
+**Defending Against Deception Common Data Model (DAD-CDM)** is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) to define global standards that will help protect against the online spread of Foreign Information Manipulation and Interference (FIMI).
 
 The goal of the DAD-CDM project is to enable organizations that seek to blunt such attacks to preempt and respond to them by enabling data to be shared at machine speed and scale. DAD-CDM builds on the STIX cybersecurity standard. It addresses risk, countermeasure and playbook extensions, knowledge representation, and semantic modeling. DAD-CDM also will create data sets to defend against AI-empowered attack.
 
